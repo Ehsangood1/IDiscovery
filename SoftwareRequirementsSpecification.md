@@ -107,7 +107,7 @@ This document outlines both functional and non-functional requirements for the C
 ### 2.2 Use Case Diagram
 
 
-![UCD drawio (1)]([https://github.com/user-attachments/assets/8189df5b-dc20-469a-8848-099430f5b405](https://github.com/Ehsangood1/IDiscovery/blob/07694d57e1d771660ce74fe2f7e55f5a693af264/Diagram/UseCaseDiagram/UseCaseDiagram.drawio.svg))
+![UseCase Diagram](https://github.com/Ehsangood1/IDiscovery/blob/bbffbbb65645e952e92c5652af0b6fd46aad0278/Diagram/UseCaseDiagram/UseCaseDiagram.drawio.svg)
 
 
 - Green:  3rd Semester
