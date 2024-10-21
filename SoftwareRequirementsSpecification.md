@@ -26,6 +26,7 @@ Together, we can inspire a generation of explorers and creators. Join us on this
 # Common Playground - Software Requirements Specification 
 
 ##Table of contents
+
 - [Table of contents](#table-of-contents)
 - [Introduction](#1-introduction)
     - [Purpose](#11-purpose)
