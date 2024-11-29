@@ -1,8 +1,7 @@
 # IDiscovery Project 🍓
-
-## Promise of Inspiration
-
-The IDiscover Project aims to blend creativity and technology, fostering innovative solutions that inspire exploration and learning. We believe in the power of collaboration and the potential of every idea to create a meaningful impact.
+--------------------------------------------------
+Software Requirement Specification
+--------------------------------------------------
 
 ### Goals
 
